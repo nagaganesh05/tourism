@@ -1,0 +1,51 @@
+.image{
+    padding: 300px;
+    background-image: url(https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ae/83/fa/bogatha-waterfalls.jpg?w=1200&h=-1&s=1);
+    background-size: cover;
+    margin: 0%;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    text-align: center;
+    padding-left: 400px;
+    color: #000000;
+    font-size: 50px;
+    text-shadow: 3px 3px 3px rgb(255,098,98);   
+    position: absolute;
+    
+}
+table{
+    margin: 0% auto;
+}
+td{
+    border: 2px solid black;
+    border-radius: 10px ;
+    box-shadow: 3px 3px 3px #ff7890;
+}
+figcaption{
+    font-weight: 200;
+    font-style: oblique;
+    font-size: larger;
+    color: #000000;
+    text-align: center;
+}
+section{
+    padding:0px;
+    margin: 0px;
+}
+footer{
+    background-color: #ff7890;
+}
+h2{
+    text-align: center;
+    color: #000000;
+}
+form{
+    text-align: center;
+    color: #000000;
+    
+}
